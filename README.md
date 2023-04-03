@@ -1,1 +1,47 @@
-# java-journey-curso
+# TIMELINE DO CURSO
+
+- [ ]  1 - Hello world com Spring
+- [ ]  2-  Hello world com Rest
+- [ ]  3- Códigos HTTP’s
+- [ ]  4- Códigos HTTP’ na pratica
+- [ ]  5- Primeira API REST
+- [ ]  6- Criação métodos GET e POST
+- [ ]  7- Criação métodos PUT e DELETE
+- [ ]  8- Validação de campos
+- [ ]  9- Introdução a DTO
+- [ ]  10 - Criação de filtros
+- [ ]  11 - Introdução a paginação
+- [ ]  12-  Paginação com ordenação
+- [ ]  13- Criação de exceptions
+- [ ]  14- Adição de Log
+- [ ]  15- Introdução a cache
+- [ ]  16- Implementando cache
+- [ ]  17- Limpeza de cache
+- [ ]  18- Introdução a documentação
+- [ ]  19- Implementando swagger
+- [ ]  20 - Introdução a Spring Security
+- [ ]  21 - Implementando Spring Security
+- [ ]  22-  Criando end-point publico
+- [ ]  23- Conceito de micro services
+- [ ]  24- Introdução a OpenFeing
+- [ ]  25- Consumo API ViaCep
+- [ ]  26- Consumo API previsão do tempo
+- [ ]  27- Introdução padrão de projeto adpter
+- [ ]  28- Unificação de serviços
+- [ ]  29- Introdução Docker
+- [ ]  30 - Subindo projeto Spring no Docker
+- [ ]  31 - Introdução a mensageria
+- [ ]  32-  Criando um consumer com RabbitMQ
+- [ ]  33-  Criando um producer com RabbitMQ
+- [ ]  34- Criando um consumer com Kafka
+- [ ]  35- Criando um producer com Kafka
+- [ ]  36- Introdução a bancos nao realacional com spring
+- [ ]  37- Spring com MongoDB
+- [ ]  38- Spring com Redis
+- [ ]  39- Introdução a Spring batch
+- [ ]  40 - Criando um batch com Spring
+- [ ]  41 - introdução graphql
+- [ ]  42- criando a primeira query
+- [ ]  43- criando a primeira mutation
+- [ ]  44- Circuite break com spring
+- [ ]  45- Monitoramento da aplicação
